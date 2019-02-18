@@ -1,0 +1,6 @@
+NomFilms;Synopsis;Année;Image;Type;Prix
+FilmA;S1;1990;ImgA;Fiction;1000
+FilmB;S2;1985;ImgB;Comédie;900
+FilmC;S3;1995;ImgC;Action;1050
+FilmD;S4;2000;ImgD;Comédie;400
+FilmE;S5;2001;ImgE;Action;600
